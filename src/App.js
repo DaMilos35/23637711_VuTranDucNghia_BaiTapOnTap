@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 
-// Import các components con
 import Bai1_Hooks from './components/Bai1_Hooks';
 import Bai2_Fetch from './components/Bai2_Fetch';
 import Bai2_Async from './components/Bai2_Async';
