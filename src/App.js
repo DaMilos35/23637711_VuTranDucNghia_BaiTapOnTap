@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="app-wrapper">
       <div className="header-info">
-        <h1 style={{color: '#d35400', textTransform: 'uppercase'}}>Báo Cáo Bài Tập Giữa Kỳ</h1>
+        <h1 style={{color: '#d35400', textTransform: 'uppercase'}}>Bài Tập Ôn Tập Giữa Kỳ</h1>
         <div style={{fontSize: '1.2rem', marginTop: '15px', lineHeight: '1.6'}}>
             <p>Sinh viên: <b style={{color: '#2980b9'}}>Vũ Trần Đức Nghĩa</b></p>
             <p>MSSV: <b>23637711</b> &nbsp;|&nbsp; Lớp: <b>DHKTPM19ATT</b></p>

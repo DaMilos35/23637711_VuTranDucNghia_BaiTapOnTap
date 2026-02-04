@@ -9,7 +9,7 @@ export default function Bai2_Async() {
         try {
             const res = await fetch('https://jsonplaceholder.typicode.com/posts', {
                 method: 'POST',
-                body: JSON.stringify({ title: 'Bài tập GK', userId: 1 }),
+                body: JSON.stringify({ title: 'Bài tập ôn tập', userId: 1 }),
                 headers: { 'Content-type': 'application/json' },
             });
             const data = await res.json();

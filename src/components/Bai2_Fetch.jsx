@@ -9,7 +9,6 @@ export default function Bai2_Fetch() {
         fetch('https://jsonplaceholder.typicode.com/users/1')
             .then(res => res.json())
             .then(json => {
-                // Hiển thị kết quả rõ ràng để chụp ảnh
                 setData(`✅ GET Thành công:\nTên: ${json.name}\nEmail: ${json.email}`);
             })
             .catch(() => setData("❌ Lỗi Fetch"));
