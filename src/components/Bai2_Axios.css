@@ -1,0 +1,8 @@
+.btn-axios { 
+    background-color: #dc3545; 
+    color: white; 
+    padding: 8px 12px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 4px; 
+}

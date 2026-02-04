@@ -1,0 +1,22 @@
+.box-api {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    background-color: #fff;
+}
+
+.btn-fetch { 
+    background-color: #17a2b8; 
+    color: white; 
+    padding: 8px 12px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 4px; 
+}
+
+.result-text { 
+    margin-top: 10px; 
+    font-weight: bold;
+    color: #333;
+}
